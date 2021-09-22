@@ -16,7 +16,7 @@ body {
 .wrapper {
   margin: 0 auto;
   width: 60%;
-  padding-bottom: 40px;
+  padding-bottom: px;
 }
 
 #content {
@@ -31,7 +31,7 @@ h1, h2 {
 
 h1 {
   font-size: 3.5em;
-  margin-bottom: 0;
+  margin-bottom: 0em;
 }
 
 h2 {
